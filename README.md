@@ -40,6 +40,3 @@ analise_completa.txt
 * Bash
 * Nmap
 
-
-
-
