@@ -43,3 +43,8 @@ analise_completa.txt
 
 
 
+
+
+
+
+
